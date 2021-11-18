@@ -1,0 +1,4 @@
+#Thu Nov 18 14:49:47 IST 2021
+base.0=/Volumes/Data/Project/Flutter/flutter_animation_sample-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
